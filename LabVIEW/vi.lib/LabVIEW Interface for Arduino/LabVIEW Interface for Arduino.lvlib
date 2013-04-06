@@ -24,6 +24,14 @@
 			<Item Name="LabVIEWInterface.ino" Type="Document" URL="/&lt;vilib&gt;/LabVIEW Interface for Arduino/Firmware/LIFA_Base/LabVIEWInterface.ino"/>
 			<Item Name="LIFA_Base.ino" Type="Document" URL="/&lt;vilib&gt;/LabVIEW Interface for Arduino/Firmware/LIFA_Base/LIFA_Base.ino"/>
 		</Item>
+		<Item Name="ChipKit" Type="Folder">
+			<Item Name="LIFA_Uno32" Type="Folder">
+				<Item Name="keywords.txt" Type="Document" URL="/&lt;vilib&gt;/LabVIEW Interface for Arduino/Firmware/ChipKit/LIFA_Uno32/keywords.txt"/>
+				<Item Name="LabVIEWInterface.h" Type="Document" URL="/&lt;vilib&gt;/LabVIEW Interface for Arduino/Firmware/ChipKit/LIFA_Uno32/LabVIEWInterface.h"/>
+				<Item Name="LabVIEWInterface.ino" Type="Document" URL="/&lt;vilib&gt;/LabVIEW Interface for Arduino/Firmware/ChipKit/LIFA_Uno32/LabVIEWInterface.ino"/>
+				<Item Name="LIFA_Uno32.ino" Type="Document" URL="/&lt;vilib&gt;/LabVIEW Interface for Arduino/Firmware/ChipKit/LIFA_Uno32/LIFA_Uno32.ino"/>
+			</Item>
+		</Item>
 	</Item>
 	<Item Name="Private" Type="Folder">
 		<Item Name="Helper VIs" Type="Folder">
