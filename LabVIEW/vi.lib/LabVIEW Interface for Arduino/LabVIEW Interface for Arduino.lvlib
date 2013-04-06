@@ -175,4 +175,22 @@
 		<Item Name="Close.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Interface for Arduino/Public/Close.vi"/>
 		<Item Name="Init.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Interface for Arduino/Public/Init.vi"/>
 	</Item>
+	<Item Name="Examples" Type="Folder">
+		<Item Name="Arduino Analog Read Pin.vi" Type="VI" URL="../../../examples/LabVIEW Interface for Arduino/Arduino Analog Read Pin.vi"/>
+		<Item Name="Arduino BlinkM.vi" Type="VI" URL="../../../examples/LabVIEW Interface for Arduino/Arduino BlinkM.vi"/>
+		<Item Name="Arduino Continuous Sampling.vi" Type="VI" URL="../../../examples/LabVIEW Interface for Arduino/Arduino Continuous Sampling.vi"/>
+		<Item Name="Arduino Finite Analog Sampling.vi" Type="VI" URL="../../../examples/LabVIEW Interface for Arduino/Arduino Finite Analog Sampling.vi"/>
+		<Item Name="Arduino IR Sensor.vi" Type="VI" URL="../../../examples/LabVIEW Interface for Arduino/Arduino IR Sensor.vi"/>
+		<Item Name="Arduino LCD Event Based.vi" Type="VI" URL="../../../examples/LabVIEW Interface for Arduino/Arduino LCD Event Based.vi"/>
+		<Item Name="Arduino LCD Hello World 4-bit.vi" Type="VI" URL="../../../examples/LabVIEW Interface for Arduino/Arduino LCD Hello World 4-bit.vi"/>
+		<Item Name="Arduino Light Show.vi" Type="VI" URL="../../../examples/LabVIEW Interface for Arduino/Arduino Light Show.vi"/>
+		<Item Name="Arduino Photocell.vi" Type="VI" URL="../../../examples/LabVIEW Interface for Arduino/Arduino Photocell.vi"/>
+		<Item Name="Arduino RGB LED.vi" Type="VI" URL="../../../examples/LabVIEW Interface for Arduino/Arduino RGB LED.vi"/>
+		<Item Name="Arduino Servo.vi" Type="VI" URL="../../../examples/LabVIEW Interface for Arduino/Arduino Servo.vi"/>
+		<Item Name="Arduino Seven Segment Display.vi" Type="VI" URL="../../../examples/LabVIEW Interface for Arduino/Arduino Seven Segment Display.vi"/>
+		<Item Name="Arduino Stepper Motor.vi" Type="VI" URL="../../../examples/LabVIEW Interface for Arduino/Arduino Stepper Motor.vi"/>
+		<Item Name="Arduino Thermistor Read.vi" Type="VI" URL="../../../examples/LabVIEW Interface for Arduino/Arduino Thermistor Read.vi"/>
+		<Item Name="Arduino Thumbstick.vi" Type="VI" URL="../../../examples/LabVIEW Interface for Arduino/Arduino Thumbstick.vi"/>
+		<Item Name="Arduino Tone.vi" Type="VI" URL="../../../examples/LabVIEW Interface for Arduino/Arduino Tone.vi"/>
+	</Item>
 </Library>
