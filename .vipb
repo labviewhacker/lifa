@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.4" Created_Date="2011-05-02 08:57:01" Modified_Date="2013-04-12 16:53:46" Creator="skristof" Comments="" ID="2f36235367e26838ff0d2735aa24158d">
+<VI_Package_Builder_Settings Version="0.4" Created_Date="2011-05-02 08:57:01" Modified_Date="2013-04-14 17:39:07" Creator="skristof" Comments="" ID="d8108e09df09e54def6de72ad902c2ca">
   <Library_General_Settings>
     <Package_File_Name>national_instruments_lib_labview_interface_for_arduino</Package_File_Name>
-    <Library_Version>2.3.0.84</Library_Version>
+    <Library_Version>2.3.0.88</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>Installers</Library_Output_Folder>
@@ -334,7 +334,7 @@ Added support for LabVIEW 2009 or later.</Release_Notes>
         <Path/>
         <VI_Title>Utility</VI_Title>
       </Items_Data>
-      <GUID>6679404319F37FB4CE2ADF80C8D5A66F</GUID>
+      <GUID>B6B3A09CEA9D1E85E262F3E57BAF2EDB</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -537,7 +537,7 @@ Added support for LabVIEW 2009 or later.</Release_Notes>
         <Path/>
         <VI_Title>Analog Sampling</VI_Title>
       </Items_Data>
-      <GUID>4D7054E0B30FC51C8B283E1F82B2E8AC</GUID>
+      <GUID>D5D16536B02BA3C6E07F37A73133E1F4</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -614,7 +614,7 @@ Added support for LabVIEW 2009 or later.</Release_Notes>
         <Path>LabVIEW\examples\LabVIEW Interface for Arduino\Arduino Finite Analog Sampling.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E3FFAF13707891A926696BA59D6F8135</GUID>
+      <GUID>5B50E2AB4F33022B4971D99B57DD71A3</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -859,7 +859,7 @@ Added support for LabVIEW 2009 or later.</Release_Notes>
         <Path>LabVIEW\vi.lib\LabVIEW Interface for Arduino\Public\Sensors\IR Transmit NEC.vi</Path>
         <VI_Title>IR Transmit NEC.vi</VI_Title>
       </Items_Data>
-      <GUID>2FAC66E206C77CA2EE7D31C744ED7EC5</GUID>
+      <GUID>304253D5E8BAA089F4E5BFC512FAAB98</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -950,7 +950,7 @@ Added support for LabVIEW 2009 or later.</Release_Notes>
         <Path>LabVIEW\vi.lib\LabVIEW Interface for Arduino\Public\Utility\Packetize.vi</Path>
         <VI_Title>Packetize.vi</VI_Title>
       </Items_Data>
-      <GUID>C6AD53FB2B85F944B58B6F2686D2298C</GUID>
+      <GUID>67179B453F07E869DAC7CBFABDCB08B7</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -1153,7 +1153,7 @@ Added support for LabVIEW 2009 or later.</Release_Notes>
         <Path>LabVIEW\vi.lib\LabVIEW Interface for Arduino\Public\Sensors\BlinkM\BlinkM SetTimeAdjust.vi</Path>
         <VI_Title>BlinkM SetTimeAdjust.vi</VI_Title>
       </Items_Data>
-      <GUID>2809768460044E5BC7FD3E7E980B3B3D</GUID>
+      <GUID>6F7EA23614D86E5278F3694948A288F4</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -1202,7 +1202,7 @@ Added support for LabVIEW 2009 or later.</Release_Notes>
         <Path/>
         <VI_Title>SPI</VI_Title>
       </Items_Data>
-      <GUID>1E3627139D14B18D89E61705D230CEF1</GUID>
+      <GUID>E948083EE34E919D50B7D6778E672F16</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>6</Parent_Palette_Index>
@@ -1265,7 +1265,7 @@ Added support for LabVIEW 2009 or later.</Release_Notes>
         <Path>LabVIEW\vi.lib\LabVIEW Interface for Arduino\Public\Low Level\Bus Specific\I2C\I2C Write.vi</Path>
         <VI_Title>I2C Write.vi</VI_Title>
       </Items_Data>
-      <GUID>879D51EBF5B1391E92B10177F13697BF</GUID>
+      <GUID>918159719F80874B19715E006E99194A</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>6</Parent_Palette_Index>
@@ -1370,7 +1370,7 @@ Added support for LabVIEW 2009 or later.</Release_Notes>
         <Path>LabVIEW\vi.lib\LabVIEW Interface for Arduino\Public\Low Level\Bus Specific\SPI\SPI Set Data Mode.vi</Path>
         <VI_Title>SPI Set Data Mode.vi</VI_Title>
       </Items_Data>
-      <GUID>132164E1449DD4E062449FA7E4A8BE97</GUID>
+      <GUID>691D4BC41248E0E17F41BBA27FA11CD1</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>4</Parent_Palette_Index>
@@ -1475,7 +1475,7 @@ Added support for LabVIEW 2009 or later.</Release_Notes>
         <Path>LabVIEW\vi.lib\LabVIEW Interface for Arduino\Public\Utility\Thumbstick Value To Angle.vi</Path>
         <VI_Title>Thumbstick Value To Angle.vi</VI_Title>
       </Items_Data>
-      <GUID>3FF30BBA4AE4BCF947E9F1942FE0E9BD</GUID>
+      <GUID>EE52E882C060E67A350F9709D13F9412</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -1594,7 +1594,7 @@ Added support for LabVIEW 2009 or later.</Release_Notes>
         <Path>LabVIEW\vi.lib\LabVIEW Interface for Arduino\Public\Sensors\Servo\Detach Servo.vi</Path>
         <VI_Title>Detach Servo.vi</VI_Title>
       </Items_Data>
-      <GUID>42332D344595F13C1D447077B9CCD604</GUID>
+      <GUID>343A88C41E60772BF1341B71C3B95891</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -1626,7 +1626,7 @@ Added support for LabVIEW 2009 or later.</Release_Notes>
           <Column>5</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>LabVIEW\vi.lib\LabVIEW Interface for Arduino\Public\Sensors\Stepper Close.vi</Path>
+        <Path>LabVIEW\vi.lib\LabVIEW Interface for Arduino\Public\Sensors\Stepper\Stepper Close.vi</Path>
         <VI_Title>Stepper Close.vi</VI_Title>
       </Items_Data>
       <Items_Data>
@@ -1640,7 +1640,7 @@ Added support for LabVIEW 2009 or later.</Release_Notes>
           <Column>1</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>LabVIEW\vi.lib\LabVIEW Interface for Arduino\Public\Sensors\Stepper Configure.vi</Path>
+        <Path>LabVIEW\vi.lib\LabVIEW Interface for Arduino\Public\Sensors\Stepper\Stepper Configure.vi</Path>
         <VI_Title>Stepper Configure.vi</VI_Title>
       </Items_Data>
       <Items_Data>
@@ -1654,7 +1654,7 @@ Added support for LabVIEW 2009 or later.</Release_Notes>
           <Column>2</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>LabVIEW\vi.lib\LabVIEW Interface for Arduino\Public\Sensors\Stepper Write.vi</Path>
+        <Path>LabVIEW\vi.lib\LabVIEW Interface for Arduino\Public\Sensors\Stepper\Stepper Write.vi</Path>
         <VI_Title>Stepper Write.vi</VI_Title>
       </Items_Data>
       <Items_Data>
@@ -1668,7 +1668,7 @@ Added support for LabVIEW 2009 or later.</Release_Notes>
           <Column>3</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>LabVIEW\vi.lib\LabVIEW Interface for Arduino\Public\Sensors\Stepper ToGo.vi</Path>
+        <Path>LabVIEW\vi.lib\LabVIEW Interface for Arduino\Public\Sensors\Stepper\Stepper ToGo.vi</Path>
         <VI_Title>Stepper ToGo.vi</VI_Title>
       </Items_Data>
       <Items_Data>
@@ -1682,10 +1682,10 @@ Added support for LabVIEW 2009 or later.</Release_Notes>
           <Column>4</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>LabVIEW\vi.lib\LabVIEW Interface for Arduino\Public\Sensors\Stepper Wait Till Steps Complete.vi</Path>
+        <Path>LabVIEW\vi.lib\LabVIEW Interface for Arduino\Public\Sensors\Stepper\Stepper Wait Till Steps Complete.vi</Path>
         <VI_Title>Stepper Wait Till Steps Complete.vi</VI_Title>
       </Items_Data>
-      <GUID>7297E712A7DB6547A64694863B5E9FEE</GUID>
+      <GUID>627135A6AAD74AC8D52DE8A39C6CAD9A</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -1762,7 +1762,7 @@ Added support for LabVIEW 2009 or later.</Release_Notes>
         <Path>LabVIEW\vi.lib\LabVIEW Interface for Arduino\Public\Low Level\Continuous Acquisition Sample.vi</Path>
         <VI_Title>Continuous Acquisition Sample.vi</VI_Title>
       </Items_Data>
-      <GUID>15DB27C5D6C1C453246B631C640A3BDF</GUID>
+      <GUID>DBD4C1A959271E2FF1896D9D67E1BA74</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -1951,7 +1951,7 @@ Added support for LabVIEW 2009 or later.</Release_Notes>
         <Path>LabVIEW\vi.lib\LabVIEW Interface for Arduino\Public\Sensors\Character LCD\LCD Create Custom Char.vi</Path>
         <VI_Title>LCD Create Custom Char.vi</VI_Title>
       </Items_Data>
-      <GUID>C3F5709B0859C165874828A473D11AFE</GUID>
+      <GUID>EAF6E3CFADF99A5FE15AEFD397022BB9</GUID>
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -2084,7 +2084,7 @@ Added support for LabVIEW 2009 or later.</Release_Notes>
         <Path>LabVIEW\vi.lib\LabVIEW Interface for Arduino\Private\Type Defs\Connection Type.ctl</Path>
         <VI_Title>Connection Type.ctl</VI_Title>
       </Items_Data>
-      <GUID>B274BA27CB2FFFB6BB9B4B1210A00975</GUID>
+      <GUID>6329863E0652A542B2FC3A827BBA64ED</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>

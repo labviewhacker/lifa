@@ -118,6 +118,12 @@
 				<Item Name="Servo Write Pulse Width.vi" Type="VI" URL="../Public/Sensors/Servo/Servo Write Pulse Width.vi"/>
 				<Item Name="Set Number of Servos.vi" Type="VI" URL="../Public/Sensors/Servo/Set Number of Servos.vi"/>
 			</Item>
+			<Item Name="Stepper" Type="Folder">
+				<Item Name="Stepper Configure.vi" Type="VI" URL="../Public/Sensors/Stepper/Stepper Configure.vi"/>
+				<Item Name="Stepper ToGo.vi" Type="VI" URL="../Public/Sensors/Stepper/Stepper ToGo.vi"/>
+				<Item Name="Stepper Wait Till Steps Complete.vi" Type="VI" URL="../Public/Sensors/Stepper/Stepper Wait Till Steps Complete.vi"/>
+				<Item Name="Stepper Write.vi" Type="VI" URL="../Public/Sensors/Stepper/Stepper Write.vi"/>
+			</Item>
 			<Item Name="IR Sensor Read.vi" Type="VI" URL="../Public/Sensors/IR Sensor Read.vi"/>
 			<Item Name="IR Transmit NEC.vi" Type="VI" URL="../Public/Sensors/IR Transmit NEC.vi"/>
 			<Item Name="IR Transmit Raw.vi" Type="VI" URL="../Public/Sensors/IR Transmit Raw.vi"/>
@@ -127,11 +133,7 @@
 			<Item Name="Seven Segment Configure.vi" Type="VI" URL="../Public/Sensors/Seven Segment Configure.vi"/>
 			<Item Name="Seven Segment Write Char.vi" Type="VI" URL="../Public/Sensors/Seven Segment Write Char.vi"/>
 			<Item Name="Seven Segment Write String.vi" Type="VI" URL="../Public/Sensors/Seven Segment Write String.vi"/>
-			<Item Name="Stepper Close.vi" Type="VI" URL="../Public/Sensors/Stepper Close.vi"/>
-			<Item Name="Stepper Configure.vi" Type="VI" URL="../Public/Sensors/Stepper Configure.vi"/>
-			<Item Name="Stepper ToGo.vi" Type="VI" URL="../Public/Sensors/Stepper ToGo.vi"/>
-			<Item Name="Stepper Wait Till Steps Complete.vi" Type="VI" URL="../Public/Sensors/Stepper Wait Till Steps Complete.vi"/>
-			<Item Name="Stepper Write.vi" Type="VI" URL="../Public/Sensors/Stepper Write.vi"/>
+			<Item Name="Stepper Close.vi" Type="VI" URL="../Public/Sensors/Stepper/Stepper Close.vi"/>
 			<Item Name="Thermistor Read.vi" Type="VI" URL="../Public/Sensors/Thermistor Read.vi"/>
 			<Item Name="Thumbstick Config.vi" Type="VI" URL="../Public/Sensors/Thumbstick Config.vi"/>
 			<Item Name="Thumbstick Read.vi" Type="VI" URL="../Public/Sensors/Thumbstick Read.vi"/>
